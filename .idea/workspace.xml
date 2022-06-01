@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b336d53-6493-46d2-8278-8c8e919c7097" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ChatBot_V1.java" afterDir="false" />
-    </list>
+    <list default="true" id="1b336d53-6493-46d2-8278-8c8e919c7097" name="Changes" comment="Tested the program, and git." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +18,21 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="AtomLabX &lt;olmpy@hotmail.com&gt;" />
+        <option value="Adam" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9a67e6da-d048-4449-8a67-a1ac4bdb0464" />
+        <option name="url" value="https://github.com/AtomLabX/ChatBot_V1.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -64,8 +76,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654061127868</updated>
-      <workItem from="1654061129759" duration="363000" />
+      <workItem from="1654061129759" duration="684000" />
     </task>
+    <task id="LOCAL-00001" summary="Tested the program.">
+      <created>1654061644020</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654061644020</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tested the program, and git.">
+      <created>1654061708389</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654061708389</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,5 +108,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tested the program." />
+    <MESSAGE value="Tested the program, and git." />
+    <option name="LAST_COMMIT_MESSAGE" value="Tested the program, and git." />
   </component>
 </project>
