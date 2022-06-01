@@ -10,11 +10,16 @@ public class ChatBot_V1 {
         System.out.println("Okay, my name is "+robotName+" then!, I also like it!");
         System.out.print("What is your name please? ");
         String name = input.nextLine();
-        System.out.println("very nice name, "+name);
+        System.out.println("What a great name you have, "+name);
         System.out.println("Heads up and look above!, You are not allowed to use me if you are " +
                 "under the age of 16 years old!");
-        System.out.print("Is that clear? (Yes or No?) ");
-        String answer = input.nextLine();
+        System.out.println("So let me guess your age");
+        System.out.println("Enter remainders of dividing your age by 3, 5 and 7.");
+        int ageBy3 = input.nextInt();
+        int ageBy5 = input.nextInt();
+        int ageBy7 = input.nextInt();
+        int age = (ageBy3 * 70 + ageBy5 * 21 + ageBy3 * 15) % 105;
+        System.out.println("I guess your age is "+ age +", That's great!");
         System.out.println("That is it for now, see you tomorrow for the rest of the setup, " +
                 "great things awaits! I tell ya, HAHA!");
     }

@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b336d53-6493-46d2-8278-8c8e919c7097" name="Changes" comment="Tested the program, and git." />
+    <list default="true" id="1b336d53-6493-46d2-8278-8c8e919c7097" name="Changes" comment="Tested the program, and git.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChatBot_V1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChatBot_V1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654061127868</updated>
-      <workItem from="1654061129759" duration="3505000" />
+      <workItem from="1654061129759" duration="4023000" />
     </task>
     <task id="LOCAL-00001" summary="Tested the program.">
       <created>1654061644020</created>
