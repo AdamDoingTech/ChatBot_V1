@@ -54,7 +54,8 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.sourceCode"
   }
 }]]></component>
   <component name="RunManager">
@@ -79,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654061127868</updated>
-      <workItem from="1654061129759" duration="1727000" />
+      <workItem from="1654061129759" duration="2154000" />
     </task>
     <task id="LOCAL-00001" summary="Tested the program.">
       <created>1654061644020</created>
@@ -116,5 +117,9 @@
     <MESSAGE value="Tested the program." />
     <MESSAGE value="Tested the program, and git." />
     <option name="LAST_COMMIT_MESSAGE" value="Tested the program, and git." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
