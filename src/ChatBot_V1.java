@@ -11,7 +11,7 @@ public class ChatBot_V1 {
         System.out.print("What is your name please? ");
         String name = input.nextLine();
         System.out.println("very nice name, "+name);
-        System.out.println("Heads up and look above!, You are not allowd to use me if you are " +
+        System.out.println("Heads up and look above!, You are not allowed to use me if you are " +
                 "under the age of 16 years old!");
         System.out.print("Is that clear? (Yes or No?) ");
         String answer = input.nextLine();
