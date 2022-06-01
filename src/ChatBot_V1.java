@@ -18,7 +18,7 @@ public class ChatBot_V1 {
         int ageBy3 = input.nextInt();
         int ageBy5 = input.nextInt();
         int ageBy7 = input.nextInt();
-        int age = (ageBy3 * 70 + ageBy5 * 21 + ageBy3 * 15) % 105;
+        int age = (ageBy3 * 70 + ageBy5 * 21 + ageBy7 * 15) % 105;
         System.out.println("I guess your age is "+ age +", That's great!");
         System.out.println("That is it for now, see you tomorrow for the rest of the setup, " +
                 "great things awaits! I tell ya, HAHA!");
