@@ -9,7 +9,7 @@ Project Overview:<br>
     * This is my first project built using Java from scratch.<br>
 
 Contribution Guidelines:<br>
-    * Feedback is welcome (To improve the application).<br>
+    * Feedback is welcome.<br>
     * No forking allowed (In the meantime).
 
 See you on the other side! 👋🏾
