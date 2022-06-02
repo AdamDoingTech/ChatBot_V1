@@ -11,6 +11,13 @@ Project Overview:<br>
 * It is a fun project (I learn as I go).<br>
 * This is my first project built using Java from scratch.<br>
 
+
+What Did I Learn So Far?<br>
+* How to create variables in varoius method, through var or just by setting the Data Type.<br>
+* How to deal user input through Scanner<br>
+* How to clean the code, and divide it, in order to have a cleaner code base.<br>
+* How to work with more than one Data Set.<br>
+
 Contribution Guidelines:<br>
 * Feedback is welcome.<br>
 
