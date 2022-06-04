@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b336d53-6493-46d2-8278-8c8e919c7097" name="Changes" comment="Tested the program, and git.">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChatBot_V1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChatBot_V1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1654061127868</updated>
       <workItem from="1654061129759" duration="8048000" />
-      <workItem from="1654152016911" duration="703000" />
+      <workItem from="1654152016911" duration="2735000" />
     </task>
     <task id="LOCAL-00001" summary="Tested the program.">
       <created>1654061644020</created>
