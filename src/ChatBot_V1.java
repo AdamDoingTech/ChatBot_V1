@@ -29,8 +29,22 @@ public class ChatBot_V1 {
             System.out.println(numToCount + "!");
         }
         System.out.println("Completed, I told ya!, I can do it!");
+
+        System.out.println("Let's test your programming knowledge.");
+        System.out.println("Why do we use methods?");
+        System.out.println("1. To repeat a statement multiple times.");
+        System.out.println("2. To decompose a program into several small subroutines.");
+        System.out.println("3. To determine the execution time of a program.");
+        System.out.println("4. To interrupt the execution of a program.");
+        int inputForTest = input.nextInt();
+        while (inputForTest > 2 || inputForTest < 2) {
+            System.out.println("Please, try again.");
+            inputForTest = input.nextInt();
+        } 
+        System.out.println("Congrats, You got it, right!");
         System.out.println("That is it for now, see you tomorrow for the rest of the setup, " +
                 "great things awaits! I tell ya, HAHA!");
-        System.out.println();
+        }
+
     }
-}
+
