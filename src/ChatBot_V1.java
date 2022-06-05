@@ -22,7 +22,7 @@ public class ChatBot_V1 {
         System.out.println("I guess your age is "+ age +", That's great!");
         System.out.println("Let me show you what I can do\nI can count up to whatever number you " +
                 "give me, try it, give me a number!");
-        int numByUser = scanner.nextInt();
+        int numByUser = input.nextInt();
         int numToCount = -1;
         while (numToCount < numByUser) {
             numToCount += 1;
