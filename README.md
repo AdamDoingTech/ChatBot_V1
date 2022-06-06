@@ -9,9 +9,9 @@
 
   <p align="center">
     <samp>A friendly chat bot, that you can talk to!</samp><br>
-    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/atomlabx/ChatBot_V1?color=important&include_prereleases&label=version&style=for-the-badge">
         <img alt="GitHub repo size (latest by date including pre-releases)" src="https://img.shields.io/github/repo-size/atomlabx/ChatBot_V1?style=for-the-badge">
-             <img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues-raw/atomlabx/ChatBot_V1?style=for-the-badge">
+        <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/atomlabx/ChatBot_V1?color=important&include_prereleases&label=version&style=for-the-badge">
+        <img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues-raw/atomlabx/ChatBot_V1?style=for-the-badge">
     </p>
     
 
