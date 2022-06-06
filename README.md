@@ -26,10 +26,10 @@
 ### What did I learn doing the project?
 
 
-*How to create variables in varoius method, through var or just by setting the Data Type.
--How to deal user input through Scanner
--How to clean the code, and divide it, in order to have a cleaner code base.
--How to work with more than one Data Set.
+*How to create variables in varoius method, through var or just by setting the Data Type.<br>
+*How to deal user input through Scanner.<br>
+*How to clean the code, and divide it, in order to have a cleaner code base.<br>
+*How to work with more than one Data Set.<br>
 
 <br/>
 
