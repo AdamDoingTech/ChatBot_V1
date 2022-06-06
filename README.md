@@ -5,7 +5,7 @@
     <img src="https://github.com/AtomLabX/ChatBot_V1/blob/main/ref/Demo-gif.gif?raw=true" alt="Logo" width="800" height="400">
   </a>
 
-  <h3 align="center">ChatBot</h3>
+  <h3 align="center">CHAT BOT VER.1.0</h3>
 
   <p align="center">
     <samp>A friendly chat bot, that you can talk to!</samp>
@@ -13,9 +13,9 @@
 
 <br/>
 
-### Built Using:
+### WHAT LANGAUGE WAS USED TO BUILT THE PROGRAM?
 
-* Java
+* JAVA
 
 
 
@@ -23,7 +23,7 @@
 
 <br/>
 
-### What did I learn doing the project?
+### WHAT DID I LEARN, DOING THIS PROJECT?
 
 
 * How to create variables in varoius method, through var or just by setting the Data Type.<br>
@@ -46,6 +46,6 @@
 <!-- LICENSE -->
 ### Copyright
 
-Copyright © 2022 [Atom Lab X - Adam](https://AtomLabX.Dev)
+Copyright © 2022 [Adam - ATOM LAB X](https://AtomLabX.Dev)
 
 
