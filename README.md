@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/AtomLabX/ChatBot_V1">
-    <img src="https://github.com/AtomLabX/ChatBot_V1/blob/main/ref/Demo-gif.gif?raw=true" alt="Logo" width="400" height="400">
+    <img src="https://github.com/AtomLabX/ChatBot_V1/blob/main/ref/Demo-gif.gif?raw=true">
   </a>
 
   <h3 align="center">ChatBot</h3>
