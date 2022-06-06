@@ -1,7 +1,7 @@
                        
 
 
-![quick-demo](link)
+![quick-demo](https://github.com/AtomLabX/ChatBot_V1/blob/main/ref/Demo-gif.gif?raw=true)
 
 Program Objective:<br>
 * A Fun/Cute Chat Bot to talk to you, and maybe help you with a task or two!<br>
