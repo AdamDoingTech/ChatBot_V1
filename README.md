@@ -8,7 +8,7 @@
   <h3 align="center">CHAT BOT VER.1.0</h3>
 
   <p align="center">
-    <samp>A FRIENDLY CHAT BOT TO TALK TO, WHEN YOU ARE BORED!</samp>
+    <samp>A FRIENDLY CHAT 🤖 TO TALK TO, WHEN YOU ARE BORED!</samp>
     <br>
     <br>
         <img alt="GitHub repo size (latest by date including pre-releases)" src="https://img.shields.io/github/repo-size/atomlabx/ChatBot_V1?style=for-the-badge">
