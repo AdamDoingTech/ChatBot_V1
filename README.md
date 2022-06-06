@@ -33,10 +33,12 @@
 ### WHAT DID I LEARN, DOING THIS PROJECT?
 
 
-* How to create variables in varoius method, through var or just by setting the Data Type.<br>
-* How to deal user input through Scanner.<br>
-* How to clean the code, and divide it, in order to have a cleaner code base.<br>
-* How to work with more than one Data Set.<br>
+* How to create variables in varoius methods.<br>
+* How to deal with user input and store data from the user actions.<br>
+* How to to work with all Java Data Types.<br>
+* How to establish a cleaner code base.<br>
+* How to work with all Java Operators, such as: Logical, Comparison, Assignment Operators.<br>
+* How to work with various types of loops.<br>
 
 <br/>
 
