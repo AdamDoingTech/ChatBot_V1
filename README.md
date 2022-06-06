@@ -1,7 +1,7 @@
                        
 
 
--- Hello, this is Adam from Atom Lab X 👨🏾‍💻
+![quick-demo](link)
 
 Program Objective:<br>
 * A Fun/Cute Chat Bot to talk to you, and maybe help you with a task or two!<br>
