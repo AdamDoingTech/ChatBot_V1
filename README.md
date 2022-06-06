@@ -33,10 +33,9 @@
 ### WHAT DID I LEARN, DOING THIS PROJECT?
 
 
-* How to create variables in varoius methods.<br>
-* How to deal with user input and store data from the user actions.<br>
+* How to create variables in various methods.<br>
+* How to deal with user input and store data from user inputs.<br>
 * How to to work with all Java Data Types.<br>
-* How to establish a cleaner code base.<br>
 * How to work with all Java Operators, such as: Logical, Comparison, Assignment Operators.<br>
 * How to work with various types of loops.<br>
 
