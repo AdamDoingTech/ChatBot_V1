@@ -24,18 +24,20 @@
 1. Open dicatory through Terminal:
 
 2. Run the following command:
-> Java ./src/ChatBot_V1.java
+    Java ./src/ChatBot_V1.java
 
 3. Enjoy
 
 </details>
-<br>
+<br/>
 # FOR Microsoft Windows 
 <details><summary><b>Show instructions</b></summary>
 
 1. Open a command prompt window to the directory of the program.
 
-2. Enter 'javac ChatBot_V1.java' then press enter to compile.
+2. Enter
+    javac ChatBot_V1.java
+Then press enter to compile.
 
 3. Run the program using 'java ChatBot_V1.java'.
 
