@@ -1,7 +1,9 @@
-/*
-    Built using Java.
-    Created by: Adam [Atom Lab X]
-    Date: March 30th, 2022
+/**
+ Project Name: ChatBot_V1
+ Built using Java.
+ Created by: Adam [Atom Lab X]
+ Date: March 30th, 2022
+ Link: https://github.com/AtomLabX/ChatBot_V1
  */
 
 import java.util.Scanner;
