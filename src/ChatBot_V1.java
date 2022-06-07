@@ -13,7 +13,7 @@ public class ChatBot_V1 {
         String name = input.nextLine();
         System.out.println("What a great name you have, "+name);
         System.out.println("Heads up and look above!, You are not allowed to use me if you are " +
-                "under the age of 16 years old!");
+                "under thea age of 16 years old!");
         // Guessing the age.
         System.out.println("So let me guess your age");
         System.out.println("Enter remainders of dividing your age by 3, 5 and 7.");
