@@ -18,13 +18,13 @@
     
 
 ## QUICK STARTING GUIDE:
-## For macOS
+## For macOS/Linux
 <details><summary><b>Show instructions</b></summary>
 
-1. Open directory through Terminal.
+1. Open the program directory through Terminal.
 2. Run the following command:
 
-    ```sh
+    ```bash
     java ./src/ChatBot_V1.java
     ```
 
@@ -40,7 +40,7 @@
 
 2. Enter:
 
-     ```sh
+     ```batch
      javac ChatBot_V1.java
      ```
     
@@ -48,9 +48,9 @@ Then press enter to compile.
 
 3. Run the program using:
     
-    ```sh
+    ```batch
     java ChatBot_V1.java
-         ```
+    ```
 
 4. Enjoy.
 
