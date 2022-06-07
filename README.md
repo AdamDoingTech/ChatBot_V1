@@ -25,7 +25,7 @@
 <br/>
 
 ## HOW TO GET STARTED:
-    <img src="ref/Get_Started.PNG" alt="Logo" width="800" height="400">
+    <img src="/ref/Get_Started.png" alt="Logo" width="800" height="400">
   </a>
   
 
