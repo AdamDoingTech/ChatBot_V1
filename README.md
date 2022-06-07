@@ -58,4 +58,4 @@ Copyright © 2022 [Adam - ATOM LAB X](https://AtomLabX.Dev)
 
 ## License
 
-.NET (including the runtime repo) is licensed under the [MIT](LICENSE.TXT) license.
+[MIT](https://github.com/AtomLabX/ChatBot_V1/blob/main/LICENSE)
