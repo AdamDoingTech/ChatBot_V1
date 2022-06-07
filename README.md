@@ -24,8 +24,8 @@
 
 <br/>
 
-## HOW TO GET STARTED:
-    <img src="https://github.com/AtomLabX/ChatBot_V1/blob/main/ref/Get_Started.png?raw=true" alt="Logo" width="800" height="400">
+### HOW TO GET STARTED:
+    <a <img src="https://github.com/AtomLabX/ChatBot_V1/blob/main/ref/Get_Started.png?raw=true" alt="Logo" width="800" height="400">
   </a>
   
 
