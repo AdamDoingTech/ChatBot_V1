@@ -25,7 +25,9 @@
 <br/>
 
 ### HOW TO GET STARTED:
-   Java ./src/ChatBot_V1
+    Java ./src/ChatBot_V1.java
+  </a>
+  
 
 <br/>
 
