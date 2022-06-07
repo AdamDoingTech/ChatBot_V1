@@ -2,36 +2,36 @@
     Built using Java.
     Created by: Adam [Atom Lab X]
     Date: March 30th, 2022
-* */
+ */
 
 import java.util.Scanner;
 
 public class ChatBot_V1 {
     public static void main(String[] args) {
-        // Note: Always add new Scanner then (System.in) for input
+        // Note: Always add new Scanner then (System.in) for input.
         Scanner input = new Scanner(System.in);
         System.out.println("Hello, I'm your chat bot, let's start by setting me up");
         // Introduction.
         System.out.print("What you would like to name me? ");
         String robotName = input.nextLine();
-        System.out.println("Okay, my name is "+robotName+" then!, I also like it!");
+        System.out.println("Okay, my name is "+ robotName +" then!, I also like it!");
         System.out.print("What is your name please? ");
         String name = input.nextLine();
-        System.out.println("What a great name you have, "+name);
+        System.out.println("What a great name you have, "+ name);
         System.out.println("Heads up and look above!, You are not allowed to use me if you are " +
                 "under thea age of 16 years old!");
-        // Guessing age OR entering age [int].
+        // Guessing age OR entering age [int] by the user.
         System.out.print("Please enter your age: ");
         // System.out.println("Enter remainders of dividing your age by 3, 5 and 7.");
-        int ageOfTheUser = input.nextInt();
+        int ageInput = input.nextInt();
         /*
         int ageBy5 = input.nextInt();
         int ageBy5 = input.nextInt();
         int ageBy7 = input.nextInt();
         int age = (ageBy3 * 70 + ageBy5 * 21 + ageBy7 * 15) % 105;
         */
-        if (ageOfTheUser >= 16) {
-            System.out.println("So your age is "+ ageOfTheUser +", That's great!");
+        if (ageInput >= 16) {
+            System.out.println("So your age is "+ ageInput +", That's great!");
             System.out.println("You can use me");
         } else {
             System.out.println("Sorry, you can not use me, Bye!!!");
