@@ -18,22 +18,20 @@
 
 <br/>
 
-## LANGUAGES USED
+### LANGUAGES USED
 
 * JAVA
 
 <br/>
 
 ### HOW TO GET STARTED:
-    <a <img src="https://github.com/AtomLabX/ChatBot_V1/blob/main/ref/Get_Started.png?raw=true" alt="Logo" width="800" height="400">
-  </a>
-  
+   Java ./src/ChatBot_V1
 
 <br/>
 
 
 <!-- CONTRIBUTING GUIDELINES -->
-## CONTRIBUTING GUIDELINES
+### CONTRIBUTING GUIDELINES
 
 - Feedback is welcome.
 - Feel free to fork/download, and test.
@@ -42,10 +40,10 @@
 <br/>
 
 <!-- LICENSE -->
-## Copyright
+### Copyright
 
 Copyright © 2022 [Adam - ATOM LAB X](https://AtomLabX.Dev)
 
-## License
+### License
 
 [MIT](https://github.com/AtomLabX/ChatBot_V1/blob/main/LICENSE)
