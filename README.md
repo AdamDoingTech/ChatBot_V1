@@ -10,40 +10,30 @@
   <p align="center">
     <samp>A FRIENDLY CHAT 🤖 TO TALK TO, WHEN YOU ARE BORED!</samp>
     <br>
-    <br>
         <img alt="GitHub repo size (latest by date including pre-releases)" src="https://img.shields.io/github/repo-size/atomlabx/ChatBot_V1?style=for-the-badge">
         <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/atomlabx/ChatBot_V1?color=important&include_prereleases&label=version&style=for-the-badge">
         <img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues-raw/atomlabx/ChatBot_V1?style=for-the-badge">
     </p>
-    
 
 
 <br/>
 
-### WHAT LANGAUGE WAS USED TO BUILD THE PROGRAM?
+## LANGUAGES USED
 
 * JAVA
 
-
-
-> The project is for fun.
-
 <br/>
 
-### WHAT DID I LEARN, DOING THIS PROJECT?
-
-
-* How to create variables in various methods.<br>
-* How to deal with user input and store data from user inputs.<br>
-* How to to work with all Java Data Types.<br>
-* How to work with all Java Operators, such as: Logical, Comparison, Assignment Operators.<br>
-* How to work with various types of loops.<br>
+## HOW TO GET STARTED:
+    <img src="ref/Get_Started.PNG" alt="Logo" width="800" height="400">
+  </a>
+  
 
 <br/>
 
 
 <!-- CONTRIBUTING GUIDELINES -->
-### CONTRIBUTING GUIDELINES
+## CONTRIBUTING GUIDELINES
 
 - Feedback is welcome.
 - Feel free to fork/download, and test.
@@ -52,7 +42,7 @@
 <br/>
 
 <!-- LICENSE -->
-### Copyright
+## Copyright
 
 Copyright © 2022 [Adam - ATOM LAB X](https://AtomLabX.Dev)
 
