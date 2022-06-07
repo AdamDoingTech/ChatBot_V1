@@ -1,3 +1,9 @@
+/*
+    Built using Java.
+    Created by: Adam [Atom Lab X]
+    Date: March 30th, 2022
+* */
+
 import java.util.Scanner;
 
 public class ChatBot_V1 {
@@ -14,15 +20,28 @@ public class ChatBot_V1 {
         System.out.println("What a great name you have, "+name);
         System.out.println("Heads up and look above!, You are not allowed to use me if you are " +
                 "under thea age of 16 years old!");
-        // Guessing the age.
-        System.out.println("So let me guess your age");
-        System.out.println("Enter remainders of dividing your age by 3, 5 and 7.");
-        int ageBy3 = input.nextInt();
+        // Guessing age OR entering age [int].
+        System.out.print("Please enter your age: ");
+        // System.out.println("Enter remainders of dividing your age by 3, 5 and 7.");
+        int ageOfTheUser = input.nextInt();
+        /*
+        int ageBy5 = input.nextInt();
         int ageBy5 = input.nextInt();
         int ageBy7 = input.nextInt();
         int age = (ageBy3 * 70 + ageBy5 * 21 + ageBy7 * 15) % 105;
-        System.out.println("I guess your age is "+ age +", That's great!");
-        System.out.println("Let me show you what I can do\nI can count up to whatever number you " +
+        */
+        if (ageOfTheUser >= 16) {
+            System.out.println("So your age is "+ ageOfTheUser +", That's great!");
+            System.out.println("You can use me");
+        } else {
+            System.out.println("Sorry, you can not use me, Bye!!!");
+            // exit method used to terminate the program.
+            System.exit(0);
+        }
+
+        System.out.println("Also, let me show you what I can do\nI can count up to whatever " +
+                "number" +
+                " you " +
                 "give me, try it, give me a number!");
         int numByUser = input.nextInt();
         int numToCount = -1;
